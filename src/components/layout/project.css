@@ -1,0 +1,60 @@
+.Card-box {
+  width: 286px;
+  height: 806px;
+  overflow: hidden;
+  position: relative;
+  padding-left: 30px;
+}
+.Cards {
+  width: 276px;
+  height: 3060px;
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+}
+.Card > img {
+  width: 248px;
+  height: 160px;
+  border-radius: 16px;
+}
+
+.Cards:hover .Card {
+  animation-play-state: paused; /* 카드에 호버했을 때 애니메이션 멈춤 */
+}
+
+@keyframes moveUpDown {
+  0% {
+    transform: translateY(0);
+  }
+
+  100% {
+    transform: translateY(-650%);
+  }
+}
+.Card {
+  width: 254px;
+  height: 250px;
+  animation: moveUpDown 10s linear infinite;
+  top: 0px;
+  left: 0px;
+  border: 0.3px solid rgb(199, 198, 198);
+  border-radius: 16px;
+  overflow: hidden;
+  padding: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+
+  position: relative; /* 추가 */
+}
+.Project-title {
+  font-size: 16px;
+}
+.Text-Box {
+  width: 232px;
+  height: 31px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

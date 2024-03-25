@@ -1,0 +1,14 @@
+.bg-body-tertiary {
+  position: fixed;
+  top: 0;
+  /* width: 100% */
+  left: 0;
+  right: 0;
+}
+
+#basic-nav-dropdown:hover {
+  transform: scale(1.22);
+}
+.basic-nav-nodropdown:hover {
+  transform: scale(1.22);
+}
