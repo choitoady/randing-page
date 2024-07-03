@@ -28,6 +28,7 @@ React, css
 -흐르는 슬라이더 구현 → 사진에 hover할 때 멈춤 구현
 
 
+![화면 기록 2024-06-04 오후 8 19 27](https://github.com/choitoady/randing-page/assets/153695936/3f778718-a542-4082-bfae-a4f67005e326)
 
 ### 결과 및 성과 
 - css 에니메이션 사용이 가능해졌습니다.
