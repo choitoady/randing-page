@@ -19,7 +19,7 @@ React, css
 - transform을 사용해 hover할 시 크기가 커지도록 효과를 주었다. 
 - 키프레임 에니메이션으로 흐르는 슬라이더를 구현 , 사진에 hover 할 때 멈추는 기능을 구현했다. 
 
-![화면 기록 2024-06-04 오후 8 19 27](https://github.com/choitoady/randing-page/assets/153695936/3f778718-a542-4082-bfae-a4f67005e326)
+[![화면 기록 2024-06-04 오후 8 19 27](https://github.com/choitoady/randing-page/assets/153695936/3f778718-a542-4082-bfae-a4f67005e326)](https://github.com/choitoady/randing-page/assets/153695936/9c75399a-dc73-43f1-8cb5-e443c3603e09)
 
 ### 결과 및 성과 
 - css 에니메이션 사용이 가능해졌습니다.
